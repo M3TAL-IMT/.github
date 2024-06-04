@@ -24,6 +24,7 @@ As of 1st June 2024, the list is:
 Our past and current collaborations:
 * LIP6 (France)
 * LIRIS (France)
+* LIUM (France)
 * KU Leuven (Belguim)
 * HEP (Switzerland)
 
