@@ -2,6 +2,8 @@
 
 M3TAL research group is part of the HIDE team of the CERI SN, a laboratory from IMT Nord Europe. The group dedicates its effort on topics related to education, teaching and learning for all the educational stakeholders (_e.g._ collaborative learning, technology enhanced learning, learning analytics).
 
+If you are looking for specific content made by one member of the team but are lost, big chance that the repository you are looking for is either stored in this organization or in one of the following dedicated [project pages](https://github.com/M3TAL-IMT#works).
+
 ## Group composition
 As of 1st June 2024, the group is composed of the following members:
 * [Pr. Anthony Fleury (Full Professor)](https://cv.hal.science/anthony-fleury)
