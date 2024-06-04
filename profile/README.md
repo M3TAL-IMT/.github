@@ -20,6 +20,7 @@ Any work concerning a financed research project is stored to its associated GitH
 As of 1st June 2024, the list is:
 * https://github.com/TALE4GDA
 * https://github.com/F-FIDELO-19-008-FLEURY
+* https://github.com/FIPE18-007-VERMEULEN
 
 ## Collaborations
 Our past and current collaborations:
