@@ -11,7 +11,7 @@ As of 1st June 2024, the group is composed of the following members:
 * [Dr. Alexis Lebis (Associate Professor)](https://cv.hal.science/alexislebis)
 * [Luis Pinos Ullauri (PhD Student)](https://cv.hal.science/luis-pinos)
 * [Gaëlle Guigon (PhD Student)](https://cv.hal.science/gaelle-guigon)
-* Madeleine Dufrasne
+* Madeleine Dufrasne (PhD Student)
 
 ## Works
 In this organization, you will find the works led by the group which **does not concern directly a financed research project**. 
