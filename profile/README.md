@@ -14,7 +14,7 @@ As of 1st June 2024, the group is composed of the following members:
 * [Gaëlle Guigon (PhD Student)](https://cv.hal.science/gaelle-guigon)
 * Madeleine Dufrasne (PhD Student)
 
-### There was part of the group!
+### There werer part of the group!
 * [Dr. Benoît Martinet](https://cv.hal.science/benoit-martinet)
 
 ## Works
