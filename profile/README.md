@@ -21,8 +21,9 @@ As of 1st June 2024, the group is composed of the following members:
 In this organization, you will find the works led by the group which **does not concern directly a financed research project**. 
 
 Any work concerning a financed research project is stored to its associated GitHub organizaton.
-As of 1st June 2024, the list is:
+As of 10th June 2024, the list is:
 * https://github.com/TALE4GDA
+* https://github.com/NUCLEOFIL
 * https://github.com/F-FIDELO-19-008-FLEURY
 * https://github.com/FIPE18-007-VERMEULEN
 
